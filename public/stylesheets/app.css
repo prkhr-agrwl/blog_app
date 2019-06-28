@@ -1,0 +1,15 @@
+.container.main{
+	margin-top:	5em;
+}
+i.icon{
+	font-size: 2em;
+}
+.submit{
+	display: inline-block;
+}
+form{
+	margin:20px;
+}
+#delete{
+	display: inline;
+}
